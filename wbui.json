@@ -1,1 +1,71 @@
-
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 0,
+			"iconurl": "https://i.ibb.co/Gv5z0Ct8/output-onlinepngtools-8.png",
+			"disableicontext": true,
+			"iconposition": 3,
+			"icontextcolor": 0,
+			"openonstart": false,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.ibb.co/ccZCNzcd/the-oracle-discord-avatar-256.jpg",
+				"content": [
+					{
+						"title": "Mythara: Echoes of the Fallen Gods",
+						"text": "Long ago, the Gods of many ancient cultures walked the lands of Mythara. After a mysterious event known as The Sundering, their temples fell, their relics were scattered, and their presence faded into legend.\r\n\r\nNow, the Veil between the mortal and divine worlds is weakening.\r\n\r\nAncient ruins are awakening, forgotten relics are being uncovered, and strange creatures and visions are beginning to appear across the land. Guided by Morgana, Oracle of the Keepers of the Veil, survivors will uncover the truth behind the Echoes of the Fallen Gods.\r\n\r\nPlayers will shape the story through exploration, quests, alliances, rivalries, settlements, factions, and major campaign events. Your choices may influence not only your own fate, but the future of Mythara itself.\r\n\r\nThe Gods are stirring. Mythara remembers.\r\n\r\n**More information is available on Discord**"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "MYTHARA — PvP & RAID RULES",
+						"text": "Let conflict forge stories worthy of remembrance.\r\n\r\nⅠ — CONFLICT MUST HAVE PURPOSE\r\n\r\n• PvP must have a clear roleplay reason, such as a territorial dispute, robbery, retaliation, or declared war.\r\n• Killing on sight is prohibited outside agreed events or active war between the involved Dominions.\r\n• An insult alone does not justify an immediate attack. Give the other player a reasonable opportunity to respond.\r\n• Discord arguments and out-of-character disagreements are never valid reasons for in-game aggression.\r\n• Server rules always take priority over roleplay orders or royal decrees.\r\n\r\nⅡ — DOMINION PROTECTION\r\n\r\n• An established Dominion provides protection through its people, defenses, alliances, and the authority of its Sovereign.\r\n• Dominion protection is not automatic PvP immunity.\r\n• Only the elected Sovereign may declare war or authorize a raid carried out in the Dominion’s name.\r\n• Individual settlements may defend themselves immediately but may not independently begin a war or retaliatory raid.\r\n• An aggressor’s actions do not automatically make every resident of their Dominion a valid target.\r\n\r\nⅢ — UNCLAIMED DOMINIONS\r\n\r\n• Residents of unclaimed Dominions have no Sovereign or guaranteed regional military protection.\r\n• They are responsible for their own defenses and may arrange private protection agreements.\r\n• Unclaimed does not mean unrestricted PvP. Roleplay, raid notice, and all other server protections still apply.\r\n• Settlement leaders in unclaimed lands may issue or receive raid notices for their own settlement. They cannot speak for the entire region.\r\n\r\nWAR DECLARATIONS & RAID NOTICE\r\n\r\nⅣ — DECLARING WAR\r\n\r\nA Sovereign must publicly record:\r\n\r\n• The attacking and defending Dominions.\r\n• The roleplay cause for the conflict.\r\n• The intended objectives.\r\n• Any participating allies.\r\n• Proposed terms for avoiding or ending the war.\r\n\r\nWar declarations must be posted at least 24 hours before hostilities begin and acknowledged by staff. During this notice period, ordinary PvP rules remain in effect.\r\n\r\nA declaration of war does not authorize unrestricted destruction or raiding at any hour.\r\n\r\nⅤ — SCHEDULING A RAID\r\n\r\n• Every raid requires a separate notice identifying the target, attackers, allies, objective, and proposed raid window.\r\n• Raids require at least 24 hours’ notice and a staff-confirmed time.\r\n• The defending settlement must have at least one registered defender present when the raid begins.\r\n• If schedules conflict, staff will establish a reasonable window. Repeatedly refusing to arrange a defense does not grant permanent immunity.\r\n• Raids last a maximum of two hours, unless both sides and staff agree otherwise.\r\n• Logging out after a raid begins does not cancel it. Staff may pause a raid for verified outages or technical problems.\r\n• No additional tribes may join once the raid begins unless listed and approved beforehand.\r\n\r\nⅥ — RAID OBJECTIVES\r\n\r\nEvery raid must have a defined, achievable objective, such as:\r\n\r\n• Seizing a specified resource shipment.\r\n• Capturing an approved strategic position.\r\n• Recovering stolen property.\r\n• Securing a surrender or negotiated concession.\r\n\r\nRaiding solely to erase a settlement, destroy its progress, or drive players from the server is prohibited.\r\n\r\nTerritory transfers and changes of Sovereign require staff-approved campaign terms. Winning a raid alone does not grant ownership of a Dominion.\r\n\r\nCONDUCT DURING CONFLICT\r\n\r\nⅦ — STRUCTURES & LOOTING\r\n\r\n• Destroy only what is reasonably necessary to breach defenses and complete the approved objective.\r\n• No foundation wiping, unnecessary demolition, or destruction after surrender.\r\n• Do not dump inventories or destroy containers simply to make their contents despawn.\r\n• Looting must remain within the approved raid terms.\r\n• Admin-spawned regional towers and designated protected structures may not be damaged.\r\n• Public facilities are not automatically valid targets. Communal infrastructure must be specifically included in the approved raid terms.\r\n\r\nⅧ — TAMES & COMBAT\r\n\r\n• Combat tames actively used in battle may be targeted.\r\n• Passive tames that are not participating in or physically obstructing the battle may not be deliberately killed.\r\n• Do not use passive tames as shields or to block access.\r\n• No spawn camping or repeatedly killing a player who is unable to equip themselves or withdraw.\r\n• Players who return to the fight become valid combatants again.\r\n• Combat logging, meshing, exploiting, and bypassing intended defenses through bugs are prohibited.\r\n\r\nⅨ — SURRENDER & CAPTIVITY\r\n\r\n• A clear surrender ends attacks against the surrendering player once they stop fighting.\r\n• Surrendering players must cease combat and follow reasonable, agreed roleplay terms.\r\n• Captivity is limited to 30 minutes, unless the captive freely agrees to continue.\r\n• No indefinite imprisonment, forced character retirement, or permanent character death without the affected player’s consent.\r\n• Surrender terms may not demand account access, real money, or out-of-game favors.\r\n\r\n AFTER THE BATTLE\r\n\r\nⅩ — RECOVERY & CEASEFIRES\r\n\r\n• A raided settlement receives 72 hours of protection from further raids, beginning when the raid ends.\r\n• This protection applies against all attackers, including allied or substitute tribes.\r\n• Recovery protection does not grant immunity while attacking others or entering an active battlefield.\r\n• A protected settlement that initiates a raid forfeits its recovery protection.\r\n• Ceasefires and peace agreements must be publicly recorded and honored by all participating tribes.\r\n\r\nⅪ — SAFE LOCATIONS\r\n\r\n• Staff-designated sanctuaries, admin facilities, and protected events are free from PvP.\r\n• Markets and taverns are protected only when officially designated.\r\n• Players may not use safe locations to launch attacks or escape an ongoing fight.\r\n• Disputes over safe-zone abuse must be reported to staff; they do not authorize combat within the safe location.\r\n\r\nⅫ — DISPUTES & ENFORCEMENT\r\n\r\n• Keep screenshots, recordings, tribe logs, and declaration links when reporting a violation.\r\n• Submit disputes through a support ticket.\r\n• Do not retaliate against a suspected rule violation by breaking another rule.\r\n• The Oracle and the Wardens of the Veil may pause conflicts, resolve disputes, and impose penalties.\r\n\r\nVictory earns its place in Mythara through courage and consequence—not the ruin of another player’s story.\r\n\r\nOPPORTUNISTIC RAIDS\r\n\r\nRaids may range from a lone individual to an organized group targeting a settlement. An open door or a portion of a base left unprotected by its Veilstone creates an opportunity for a raid.\r\n\r\n• These raids do not require a declaration of war, the Sovereign’s authorization, or a scheduled raid window.\r\n• Raiders may enter through open doors or exploit gaps in Veilstone coverage using legitimate game mechanics.\r\n• Veilstone protection may not be bypassed through bugs, exploits, or meshing.\r\n\r\nLIMITED DESTRUCTION\r\n\r\nMass damage is prohibited. Destroy only what is necessary to gain access and complete the raid.\r\n\r\n• No foundation wiping or collapsing structures to cause widespread destruction.\r\n• No destroying unrelated buildings, crafting stations, or defenses once access has been gained.\r\n• No unnecessary damage after the raid’s objective is complete.\r\n• Take what you can carry; do not dump resources or destroy containers solely to make their contents despawn.\r\n\r\nAn exposed base is an opportunity to raid—not permission to erase a settlement.\r\n\r\nThese exceptions replace the declaration and scheduling requirements for opportunistic raids. All other applicable PvP and raid conduct rules remain in effect.\r\n\r\nSecure your doors. Tend your Veilstone. What lies beyond its protection may tempt those who pass.\r\n\r\nPASSIVE TAME PROTECTION\r\n\r\nUncryo’d dinos set to Passive are off-limits during opportunistic raids. They may not be killed, injured, stolen, or deliberately moved into danger.\r\n\r\n• This protection applies even if a door is open or the dino is outside Veilstone coverage.\r\n• Passive dinos may not be used to block entrances, shield valuables, or obstruct raiders. Report suspected abuse to staff rather than harming the tame.\r\n• Dinos actively used to attack raiders lose this protection while participating in combat."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "World Map",
+				"imageurl": "https://i.ibb.co/gbNKLJLh/Mythara.jpg",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Intro",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "MYTHARA: ECHOES OF THE FALLEN GODS",
+						"text": "A New Age Begins\r\nFor generations, the people of Mythara have lived among the ruins of a world they no longer understand.\r\n\r\nAncient temples stand broken beneath the mountains. Forgotten shrines lie buried beneath forests and sand. Strange symbols cover stones older than any kingdom still remembered.\r\n\r\nMost believed these places were nothing more than remnants of civilizations long gone.\r\n\r\nThey were wrong.\r\n\r\nAcross Mythara, the old places are beginning to awaken.\r\n\r\nLights flicker within ruined temples where no flame has burned for centuries. Creatures once spoken of only in legend have been sighted beyond the safety of settlements. Ancient relics are being uncovered, and whispers of forgotten Gods have begun creeping into the dreams of mortals.\r\n\r\nAt the center of these strange events stands Morgana, Oracle of the Keepers of the Veil.\r\n\r\nHer visions carry a warning.\r\n\r\nThe barrier between the mortal world and the realm of the divine is weakening.\r\n\r\nThe Gods are stirring.\r\n\r\nAnd the echoes of their ancient power are returning to Mythara.\r\n\r\nSurvivors will explore forgotten lands, uncover divine relics, build settlements, form alliances, create rivalries, and choose where their loyalties lie.\r\n\r\nSome may seek the favor of the Gods.\r\n\r\nOthers may seek to destroy their influence.\r\n\r\nAnd some may discover that the greatest threat to Mythara is not the return of the Gods...\r\n\r\n…but what caused them to fall in the first place.\r\n\r\nThe Veil is weakening.\r\nThe Gods are calling.\r\nYour legend begins now."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Join our Discord",
+				"url": "https://discord.gg/mythara-rp"
+			}
+		],
+		"version": 2
+	}
+}
