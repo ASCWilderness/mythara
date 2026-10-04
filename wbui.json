@@ -10,9 +10,9 @@
 			"disableicontext": true,
 			"iconposition": 3,
 			"icontextcolor": 0,
-			"openonstart": false,
-			"openonstartonlynewplayers": false,
-			"updateinterval": 0
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
 		},
 		"tabs": [
 			{
